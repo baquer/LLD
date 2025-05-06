@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SolidPrincipals/StartegyDesign/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/DependecyInversion/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/LiskovSubstitution/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/OpenClosePrincipal/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/FactoryDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/InterfaceSegregation/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/ObserverDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/DecoratorDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/PrototypeDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/SolidPrincipals/SingletonDesignPattern/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

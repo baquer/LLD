@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/DecoratorDesignPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/DecoratorDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/DependecyInversion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/DependecyInversion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/FactoryDesignPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/FactoryDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/InterfaceSegregation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/InterfaceSegregation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/LiskovSubstitution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/LiskovSubstitution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/ObserverDesignPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/ObserverDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/OpenClosePrincipal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/OpenClosePrincipal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/PrototypeDesignPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/PrototypeDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/SingletonDesignPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/SingletonDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/StartegyDesign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SolidPrincipals/StartegyDesign/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

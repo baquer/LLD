@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DecoratorDesignPattern" />
+        <module name="SingletonDesignPattern" />
+        <module name="InterfaceSegregation" />
+        <module name="LiskovSubstitution" />
+        <module name="OpenClosePrincipal" />
+        <module name="StartegyDesign" />
+        <module name="ObserverDesignPattern" />
+        <module name="DependecyInversion" />
+        <module name="PrototypeDesignPattern" />
+        <module name="FactoryDesignPattern" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
